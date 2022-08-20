@@ -1,1 +1,2 @@
 # OpenFPSMaster
+FPSMaster PVP Client
